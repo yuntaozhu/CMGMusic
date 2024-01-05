@@ -1,4 +1,4 @@
-<!-- 
+<!--
     kahit ano
  -->
 
@@ -32,12 +32,12 @@
   <head>
         {#each data[contents] as content}
             {#if content.title.toLowerCase() === contentTitle}
-                <title>{content.title} - Showcase</title>
+                <title>{content.title} - Concert</title>
             {/if}
 
-        {/each}  
+        {/each}
   </head>
-  
+
   <div class="min-h-screen flex flex-col md:items-center showcase-background pt-10 md:pt-20 pb-10 md:pb-20 gap-10 lg:gap-20 relative z-20">
     <ShowcaseHeader contents = {contents} contentTitle = {contentTitle}/>
     <ShowcaseImage contents = {contents} contentTitle = {contentTitle}/>
@@ -50,7 +50,7 @@
 
 <style>
     .showcase-background {
-        background-image: url("/BACKGROUND.svg");
+        background-image: url("/homebackground.png");
         background-repeat: no-repeat;
         background-size: cover;
     }

@@ -10,8 +10,8 @@
     { title: "Home", url: "/" },
     { title: "About Us", url: "/about-us" },
     { title: "Showcase", url: "/showcase" },
-    // { title: "Developers", url: "/developers" },
-    // {title: "ACSS Week", url: ""},
+    { title: "Video", url: "/developers" },
+    {title: "CMG Week", url: ""},
   ];
 
   function handleClick() {
@@ -31,8 +31,8 @@
   <div class="flex flex-row justify-between gap-5 items-center">
     <div class="w-50 h-50">
       <img
-        src="/logo.webp"
-        alt="The official seal of The Alliance of Computer Science Student"
+        src="/logo.png"
+        alt="The official seal of The Alliance of Musical"
         class="h-12 w-12"
       />
     </div>
@@ -71,7 +71,7 @@
 
 <style>
   .menu-container {
-    background-color: var(--color-dark-3);
+    background-color: var(--color-dark-blue);
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
   }
 

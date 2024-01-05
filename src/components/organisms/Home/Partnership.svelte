@@ -109,7 +109,7 @@
     class="w-full h-fit flex flex-col items-center gap-5 -mb-48 pl-[10%] pr-[10%] relative overflow-hidden"
 >
     <h6 class="relative text-2xl font-extrabold text-center px-5">
-        We have worked with {logos.length} companies.
+        We have lunched  {logos.length} concert.
     </h6>
     <div class="relative flex justify-center h-[480px]">
         <div

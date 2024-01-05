@@ -1,8 +1,8 @@
 <!-- Incoming/Ongoing Event Section -->
 <script lang="ts">
-  let eventName = "ACSS Orientation";
+  let eventName = "CMG Orientation";
   let eventDescription =
-    "Xperience Sugar, Spice, and Everything Nice: An ACSS-UPLB Orientation. See you at Jollibee Vega!";
+    "Xperience Sugar, Spice, and Everything Nice: An CMG-UPLB Orientation. See you at Jollibee Vega!";
   let eventImage = "/assets/placeholder-event-image.svg";
   let eventDateTime = "September 21, 2023 7:00 PM";
   import { Button } from "$components";
@@ -67,7 +67,7 @@
       <div class="justify-self-end self-center">
         <img
           src={eventImage}
-          alt="ACSS Event Placeholder"
+          alt="CMG Event Placeholder"
           width="381"
           height="349"
           class="object-cover"
@@ -82,8 +82,8 @@
   .glassmorphic-rectangle {
     background: linear-gradient(
       135deg,
-      rgba(0, 0, 0, 0.15) 0%,
-      rgba(0, 0, 0, 0.3) 100%
+      rgba(186, 75, 75, 0.15) 0%,
+      rgba(211, 62, 62, 0.3) 100%
     );
   }
 

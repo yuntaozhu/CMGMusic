@@ -42,10 +42,10 @@
   >
     <div class="flex-col">
       <p class="font-normal mb-1">Contacts</p>
-      <p>Third Floor, Physical Sciences Building,</p>
-      <p>UPLB 4031 Los Baños, Philippines</p>
-      <p>0912 345 7890</p>
-      <p>acssph@gmail.com</p>
+      <p>Directions to Christ Church Cranbrook: 470 Church Road, Bloomfield Hills, MI 48304,</p>
+      <p>UDirections to Congregational Church of Birmingham UCC: 1000 Cranbrook Road, Bloomfield Hills, MI 48304</p>
+      <p>At the intersection of Cranbrook Road and Woodward Avenue</p>
+      <p>Immanuel.zhu@gmail.com</p>
       <div class="flex flex-row justify-start gap-6 mt-4">
         <a href="https://www.facebook.com/ACSSPH"
           ><img src="/assets/icon-facebook.svg" class="h-6 w-6" /></a
@@ -135,7 +135,7 @@
     height: 12rem;
     color: var(--color-white);
     background-color: var(--color-white);
-    transition: width 0.3s ease-in-out; 
+    transition: width 0.3s ease-in-out;
   } */
 
   /* @media (min-width: 1400px) and (max-width: 1700px) {

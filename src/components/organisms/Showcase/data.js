@@ -32,10 +32,10 @@ export const data = {
         
         },
         {
-            title: "Project FACE: ACSS Week 2023",
+            title: "Project FACE: CMG Week 2023",
             blurb: "Optimize Your Capabilities to the Fullest with Defragment" ,
             images: ["/acss_week.webp", "/acss_week02.webp", "/acss_week03.webp", "/acss_week04.webp", "/acss_week05.webp"],
-            description: "The ACSS Week 2023: Defragment website features three exciting events: The Exhibit, Company Talks, and Sublimed Experience. Together, these events offer a comprehensive experience for computer science enthusiasts to learn about the organization and engage in the activities. The website serves as a portal for visitors to access detailed information about the events, as well as learn about the partners and sponsors who have made it all possible.",
+            description: "The CMG Week 2023: Defragment website features three exciting events: The Exhibit, Company Talks, and Sublimed Experience. Together, these events offer a comprehensive experience for computer science enthusiasts to learn about the organization and engage in the activities. The website serves as a portal for visitors to access detailed information about the events, as well as learn about the partners and sponsors who have made it all possible.",
             developers: [
                 {id: 0, name: "Aron Resty Ramillano", role: "Developer", socials: ["/github icon.svg", "/google icon.svg", "/linkedin icon.svg"], links:["https://github.com/PERSEUS-1337", "mailto:abramillano@up.edu.ph", "https://www.linkedin.com/in/aron-resty-ramillano-61aa38266/" ], ts:["/svelte.svg","/figma.svg","/docker.svg"], pic:["/dev_resty.webp"]},
                 {id: 1, name: "Renz <br> Tegrado", role: "Developer", socials: ["/github icon.svg", "/google icon.svg", "/linkedin icon.svg"], links:["https://github.com/kennethtegrado", "mailto:kentegrado@gmail.com", "https://www.linkedin.com/in/kennethtegrado"  ], ts:["/rust.svg","/express.svg","/next.svg"], pic:["/dev_renz.webp"]},
@@ -73,7 +73,7 @@ export const data = {
         },
         {
             title: "Orientation",
-            blurb: "Delving into the Core of ACSS: Connect with ACSS Developers",
+            blurb: "Delving into the Core of CMG: Connect with CMG Developers",
             images: ["/acss_uplb_orientation.webp","/acss_uplb_orientation02.webp","/acss_uplb_orientation03.webp","/acss_uplb_orientation04.webp","/acss_uplb_orientation05.webp","/acss_uplb_orientation06.webp"],
             description: "The Alliance of Computer Science Students - UPLB holds orientations with the objective of introducing the organization —and more importantly, the people behind the organization— to the UPLB community. In the same way, our orientations provide us the means to get to know and to better serve the needs of the UPLB community."
         },

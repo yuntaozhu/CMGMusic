@@ -24,5 +24,6 @@
         overscroll-behavior: none;
         -webkit-font-smoothing: antialiased;
         overflow: auto;
+        background-image: url("/assets/homebackground.png");
     }
 </style>

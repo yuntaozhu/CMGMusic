@@ -6,7 +6,7 @@
     ["DevStories", "/#devstories"],
     ["Strengths", "/#strengths"],
     ["Contributions", "/#contributions"],
-    ["Brief Showcase", "/#briefshowcase"],
+    ["Brief Concert", "/#briefshowcase"],
   ];
 
   let Showcase = [
@@ -42,10 +42,10 @@
     <div class="flex flex-row text-left justify-between">
       <div class="flex-col">
         <p class="font-normal mb-1">Contacts</p>
-        <p>Third Floor, Physical Sciences Building,</p>
-        <p>UPLB 4031 Los Baños, Philippines</p>
-        <p>0912 345 7890</p>
-        <p>acssph@gmail.com</p>
+        <p>TDirections to Christ Church Cranbrook: 470 Church Road, Bloomfield Hills, MI 48304</p>
+        <p>Our 2019/2020 season will feature concerts in two locations: Christ Church Cranbrook and the Congregational Church of Birmingham UCC.</p>
+        <p>At the intersection of Cranbrook Road and Woodward Avenue</p>
+        <p>immanuel.zhu@gmail.com</p>
         <div class="flex flex-row justify-start gap-6 mt-4">
           <a href="https://www.facebook.com/ACSSPH"
             ><img src="/assets/icon-facebook.svg" class="h-6 w-6" /></a

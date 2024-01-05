@@ -7,7 +7,8 @@
 html,
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: var(--color-dark-2);
+    background-color: var(--color-sky-blue);
+    background-image: url("");
     color: var(--color-white);
 }
 
@@ -68,7 +69,7 @@ h5 {
 }
 
 .ws-small-bold {
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Work Sans', sans-serif;
     letter-spacing: 2px;
     font-weight: bold;
@@ -90,7 +91,7 @@ h5 {
 }
 
 .ws-small {
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Work Sans', sans-serif;
     letter-spacing: 2px;
     color: var(--color-white);
@@ -120,7 +121,7 @@ h5 {
 }
 
 .i-small-bold {
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Inter', sans-serif;
     letter-spacing: 2px;
     font-weight: bold;
@@ -163,7 +164,7 @@ h5 {
 }
 
 .glass-effect {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.00) 100%);
+    background: linear-gradient(135deg, rgba(142, 222, 88, 0.62) 0%, rgba(255, 255, 255, 0.00) 100%);
     backdrop-filter: blur(21px);
 }
 
@@ -175,16 +176,16 @@ h5 {
     --color-gray-1: #9593A4;
     --color-gray-2: #83828C;
     --color-gray-3: #3E3B4C;
-    --color-dark-1: #1E0E37;
-    --color-dark-2: #0A041F;
-    --color-dark-3: #060217;
-    --color-dark-4: #03010c;
+    --color-dark-1: #7833e3;
+    --color-dark-2: #179ae1;
+    --color-dark-3: #4696d8;
+    --color-dark-4: #4b8fe1;
 
     --color-purple: #5E35DA;
     --color-dark-purple: #3D338D;
     --color-blue: #3B7FEF;
-    --color-dark-blue: #2E3792;
-    --color-sky-blue: #00F5F1;
+    --color-dark-blue: #efd463;
+    --color-sky-blue: rgba(89, 149, 209, 0.84);
     --color-dark-sky-blue: #30CAF2;
 
     --font-family-work-sans: 'Work Sans';
@@ -196,10 +197,10 @@ h5 {
 
 .glassmorphic-rectangle {
     border-radius: 16px;
-    border: 0.01rem solid rgba(255, 255, 255, 0.1);
+    border: 0.01rem solid rgba(204, 202, 134, 0.36);
     background: linear-gradient(135deg,
             rgba(255, 255, 255, 0) 0%,
-            rgba(255, 255, 255, 0.2) 100%);
+    rgba(222, 214, 173, 0.76) 100%);
     backdrop-filter: blur(21px);
 }
 
@@ -213,7 +214,7 @@ h5 {
     border-top: 0;
     border-image-source: linear-gradient(270deg,
             rgba(46, 55, 146, 0) 0%,
-            #2e3792 27.6%,
+    #4a5ad3 27.6%,
             #00f5f1 74.48%,
             rgba(0, 245, 241, 0) 100%);
 }

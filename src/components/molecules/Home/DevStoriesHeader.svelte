@@ -16,7 +16,7 @@
                 height="80"
                 class="max-[444px]:hidden w-20"
             />
-            <p class="text-2xl font-extrabold text-center">Developer Stories</p>
+            <p class="text-2xl font-extrabold text-center">CMG Young musican Console</p>
         </div>
     </div>
 </div>

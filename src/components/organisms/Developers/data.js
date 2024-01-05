@@ -9,7 +9,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Sion',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo', 'Delulu lord', 'Python'],
           contacts: {
             gmail: '',
@@ -23,7 +23,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Laydon',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['1','2', '3','4', '5','6'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -37,7 +37,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Vince',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -51,7 +51,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Hannah',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -65,7 +65,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Marlo',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -79,7 +79,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'JP',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -93,7 +93,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Ken',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -112,7 +112,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Laydon',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -132,7 +132,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Vince',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -152,7 +152,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Hanna',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -172,7 +172,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Marlo',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -192,7 +192,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'JP',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -212,7 +212,7 @@ export const teams = [
           imageSrc: '2.jpg',
           nickname: 'Ken',
           batch: 'Y.B. 12.2',
-          bio: 'Ako ang pinakapogi sa ACSS. Ang umangal ay iddisaffi ko!',
+          bio: 'Ako ang pinakapogi sa CMG. Ang umangal ay iddisaffi ko!',
           skills: ['Halimaw magtampo'],
           contacts: {
             gmail: 'misterromatiko@up.edu.ph',
@@ -239,4 +239,3 @@ export const teams = [
   ];
   
   export const tabs = teams.map(team => team.name);
-  

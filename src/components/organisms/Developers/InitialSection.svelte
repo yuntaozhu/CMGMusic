@@ -5,10 +5,10 @@
 
   // Array of gallery items with image URLs and descriptions
   const gallery_items = [
-    { url: "assets/ACSS-DEVS1.jpg", description: "ACSS group photo" },
-    { url: "assets/ACSS-DEVS2.png", description: "ACSS group photo" },
-    { url: "assets/ACSS-DEVS3.jpg", description: "ACSS group photo" },
-    { url: "assets/ACSS-DEVS4.jpg", description: "ACSS group photo" },
+    { url: "assets/CMG-DEVS1.jpg", description: "CMG group photo" },
+    { url: "assets/CMG-DEVS2.png", description: "CMG group photo" },
+    { url: "assets/CMG-DEVS3.jpg", description: "CMG group photo" },
+    { url: "assets/CMG-DEVS4.jpg", description: "CMG group photo" },
   ];
 
   // Current slide item index for the slideshow
@@ -43,7 +43,7 @@
 
 <section class="container mx-auto relative pt-8 pb-[130px]">
   <div class="flex flex-col min-h-[85vh] pt-10 gap-10 md:flex-row md:align-center md:justify-evenly md:gap-10 2xl:gap-2">
-    
+
     <!-- Left side: Slideshow with Fade Animation -->
     <div class="relative flex flex-row mx-auto my-auto ss:text-right ss:justify-end">
       <div class="absolute flex right-[-25px] top-[-40px] md:right-[-45px]">
@@ -92,7 +92,7 @@
           >
             View Members
           </button>
-          
+
           <!-- Button to view roster section with smooth scroll -->
           <button
             class="text-xs ss:text-base bg-transparent border-2 border-gradient-to-r from-blue-700 to-blue-500 text-white px-4 py-2 rounded-2xl hover:shadow-md hover:scale-105 transition duration-300 ease-in-out"

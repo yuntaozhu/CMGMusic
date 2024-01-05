@@ -8,29 +8,29 @@
   // CUSTOMIZE THIS: This is where you can modify the brief showcase ([1] Event Name, [2] URL of the event photo from static folder)
   let events = [
     [
-      "ACSS Week: Company Talks",
+      "CMG Week: Company Talks",
       "../home-briefshowcase/briefshowcase-1.webp",
       "Showcases diverse fields in Computer Science through invited speakers from different companies. Here you can gain invaluable industry insights and a competitive edge for your future career.",
     ],
     [
-      "ACSS Week: Exhibit",
+      "CMG Week: Exhibit",
       "../home-briefshowcase/briefshowcase-2.webp",
-      "Serves as a platform to highlight the organization, its members, and details related to the year's chosen theme. Its objectives include offering extra insights into computer science, introducing the ACSS organization, motivating students to engage in ACSS Week activities, and fostering additional opportunities.",
+      "Serves as a platform to highlight the organization, its members, and details related to the year's chosen theme. Its objectives include offering extra insights into computer science, introducing the CMG organization, motivating students to engage in CMG Week activities, and fostering additional opportunities.",
     ],
     [
-      "ACSS Week: Game of Codes",
+      "CMG Week: Game of Codes",
       "../home-briefshowcase/briefshowcase-3.webp",
       "Aims to ignite passion for Computer Science and IT careers through an ACM ICPC-style competition. It enhance students' field awareness, technical skills, and critical thinking. A contest to unleash your coding prowess, solve real-life problems, and make programming exciting.",
     ],
     [
-      "ACSS Week: Sublimed",
+      "CMG Week: Sublimed",
       "../home-briefshowcase/briefshowcase-4.webp",
-      "One of the highly anticipated events in ACSS week. An annual general quiz competition featuring sports, music, food, and more. Beyond education, we offer entertainment for students and to explore knowledge beyond computer science.",
+      "One of the highly anticipated events in CMG week. An annual general quiz competition featuring sports, music, food, and more. Beyond education, we offer entertainment for students and to explore knowledge beyond computer science.",
     ],
     [
-      "ACSS Orientation",
+      "CMG Orientation",
       "../home-briefshowcase/briefshowcase-5.webp",
-      "A way of connecting with computer science enthusiasts. A means to introduce ACSS and our team to the UPLB community, fostering a deeper understanding of our organization.",
+      "A way of connecting with computer science enthusiasts. A means to introduce CMG and our team to the UPLB community, fostering a deeper understanding of our organization.",
     ],
     [
       "Team Building Activity",
@@ -430,6 +430,7 @@
   #showcased {
     background-size: cover;
     background-position: center;
+    background-image: url("/assets/homebackground.png");
   }
   #showcase-name:before {
     content: "";
@@ -438,12 +439,13 @@
     left: 0;
     width: 100%;
     height: 100%;
+    background-image: url("/assets/homebackground.png");
     background-image: linear-gradient(
       to right,
-      rgba(0, 245, 241, 0) 0%,
-      rgba(46, 55, 146, 0.3) 10%,
-      rgba(46, 55, 146, 0.3) 90%,
-      rgba(46, 55, 156, 0) 100%
+      rgba(75, 215, 212, 0.47) 0%,
+      rgb(206, 197, 103) 10%,
+      rgba(119, 129, 215, 0.3) 90%,
+      rgba(83, 92, 183, 0) 100%
     );
     filter: blur(20px);
     opacity: 0;

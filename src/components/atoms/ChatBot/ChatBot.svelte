@@ -27,12 +27,12 @@
     let isChatbotOpen = false;
     let questionSent = false;
     let buttonTransitionDuration = 200;
-    
+
     let messageHistory = [
         {
             isUser: false,
             textLoaded: true,
-            text: "Greetings, visitor!\n\nI am your ACSStant, a chatbot that you can ask about all things ACSS! If you've any question, just type it and ask away."
+            text: "Greetings, visitor!\n\nI am your ACSStant, a chatbot that you can ask about all things CMG! If you've any question, just type it and ask away."
         },
     ]
 
@@ -91,7 +91,7 @@
         } else {
             result = json["message"]
         }
-        
+
         // update message history
         messageHistory[messageHistory.length - 1] = {
             ...messageHistory[messageHistory.length - 1],
@@ -150,7 +150,7 @@
             userInput.style.height = "16px";
             userInput.style.height = userInput.scrollHeight + "px";
         }
-        
+
         // to make textarea disabled property persist even if chatbot is toggled
         if (questionSent) {
             userInput.disabled = true;
@@ -229,7 +229,7 @@
             </svg>
         {/if}
     </button>
-</div>    
+</div>
 
 <style>
     .chatbot__block {
@@ -261,7 +261,7 @@
 
 
     ::-webkit-scrollbar-thumb {
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 200, 155, 0.5);
         backdrop-filter: blur(10px);
         border-radius: 50px;
     }

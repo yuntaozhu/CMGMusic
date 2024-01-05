@@ -1,4 +1,4 @@
-<!-- 
+<!--
   This is the registration form template where you can add different input components (check the list below).
 
   Input Components:
@@ -38,13 +38,13 @@
         "School of Environmental Science and Management",
     ];
 
-    let howYouHear = ["ACSS Social Media Post", "Shared Post of a Friend",  "Invitation from a Friend"];
+    let howYouHear = ["CMG Social Media Post", "Shared Post of a Friend",  "Invitation from a Friend"];
     // END OF CUSTOMIZATION
 
     // Form submission into formValues
     function submitForm() {
         let formValues = {};
-        
+
         // @ts-ignore
         let components = document.getElementById("components")?.children;
         if (components) {
@@ -78,7 +78,7 @@
      */
     async function postToSheets(formValues) { // send form values to API
         loadingSubmission = true;
-        
+
         await fetch("/api/registration", {
             method: "POST",
             headers: {
@@ -114,7 +114,7 @@
                 }, 3000);
             })
     }
-    
+
     onMount(()=>{
         window.scrollTo({ top: 0, left: 0, behavior: "instant" });
     });

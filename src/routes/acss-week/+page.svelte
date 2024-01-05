@@ -4,7 +4,7 @@
 
 <div class="container">
   <NavBar />
-  <h3>ACSS Week</h3>
+  <h3>CMG Week</h3>
   <Footer />
 </div>
 

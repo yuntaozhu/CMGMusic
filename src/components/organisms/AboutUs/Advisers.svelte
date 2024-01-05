@@ -11,7 +11,7 @@
       name: "Sir John O-Neil Geronimo",
       position: "Junior Adviser",
       testimonial:
-        "I've had the privilege of advising ACSS, and it's been a remarkable experience. ACSS stands out for its proactive efforts in launching programs to aid their fellow students, which have significantly influenced the academic community. Furthermore, some of their members consistently demonstrate impressive coding skills, leading to substantial contributions to the success of various projects. Their effective communication and professionalism have made my role as a junior adviser exceptionally smooth. Their sincere appreciation for the support they receive further strengthens the collaborative and optimistic atmosphere within the organization.",
+        "I've had the privilege of advising CMG, and it's been a remarkable experience. CMG stands out for its proactive efforts in launching programs to aid their fellow students, which have significantly influenced the academic community. Furthermore, some of their members consistently demonstrate impressive coding skills, leading to substantial contributions to the success of various projects. Their effective communication and professionalism have made my role as a junior adviser exceptionally smooth. Their sincere appreciation for the support they receive further strengthens the collaborative and optimistic atmosphere within the organization.",
       photo: "/assets/advisers-2.webp",
     },
   ];

@@ -25,16 +25,16 @@
         <div class="custom-wrapper">
           <SplideTrack>
             <SplideSlide>
-              <img src="/assets/AUH-1.webp" alt="photo" />
+              <img src="/assets/DiscoverCMG.png" alt="photo" />
             </SplideSlide>
             <SplideSlide>
-              <img src="/assets/AUH-2.webp" alt="photo" />
+              <img src="/assets/DiscoverCMG.png" alt="photo" />
             </SplideSlide>
             <SplideSlide>
-              <img src="/assets/AUH-3.webp" alt="photo" />
+              <img src="/assets/DiscoverCMG.png" alt="photo" />
             </SplideSlide>
             <SplideSlide>
-              <img src="/assets/AUH-4.webp" alt="photo" />
+              <img src="/assets/DiscoverCMG.png" alt="photo" />
             </SplideSlide>
           </SplideTrack>
 

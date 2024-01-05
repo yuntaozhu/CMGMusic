@@ -6,8 +6,10 @@
   let pages = [
     { title: "Home", url: "/" },
     { title: "About Us", url: "/about-us" },
-    { title: "Showcase", url: "/showcase" },
-    // { title: "Developers", url: "/developers" },
+    { title: "Concert", url: "/showcase" },
+    { title: "Video", url: "/developers" },
+    { title: "Donation", url: "/developers" },
+    { title: "Young Musican Console", url: "/developers" },
   ];
 
   $: currentPath = $page.url.pathname;
@@ -33,7 +35,7 @@
 </script>
 
 <header>
-  <nav class="p-10 fixed z-50">
+  <nav class="p-20 fixed z-50">
     <div class="flex lg:hidden xl:hidden justify-start self-start">
       <HamburgerMenu />
     </div>
@@ -48,9 +50,9 @@
         <div class="hidden lg:grid xl:grid grid-cols-2">
           <a href="/">
             <img
-              src="/logo.webp"
-              alt="The official seal of The Alliance of Computer Science Student"
-              class="w-12 h-12"
+              src="/logo.png"
+              alt="The official seal of The Alliance of Musical Student"
+              class="140 h-16 w-340"
             />
           </a>
         </div>
@@ -60,7 +62,7 @@
               <li>
                 <a
                   href={url}
-                  class="duration-150 hover:text-base-sky-blue"
+                  class="duration-300 hover:text-base-sky-blue"
                   class:active-link={currentPath === url}
                   on:click={() => {
                     window.scrollTo({ top: 0, left: 0, behavior: "instant" });
@@ -82,7 +84,7 @@
 <style>
   .active-link {
     margin-top: 1px;
-    border: 10px solid;
+    border: 18px solid;
     border-image-slice: 1;
     border-width: 3px;
     border-left: 0;
@@ -104,9 +106,9 @@
   #dark-gradient {
     background: linear-gradient(
       180deg,
-      rgba(10, 3, 31, 0.8) 0%,
-      rgba(10, 3, 31, 0.6) 30%,
-      rgba(10, 3, 31, 0) 100%
+      rgba(223, 237, 244, 0.8) 0%,
+      rgba(181, 221, 237, 0.6) 30%,
+      rgba(123, 162, 200, 0.45) 80%
     );
   }
 </style>

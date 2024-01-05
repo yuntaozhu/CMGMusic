@@ -7,13 +7,13 @@
     <div
         class="flex flex-col min-h-[90vh] mx-4 pt-10 gap-5 md:flex-row md:align-center md:justify-evenly md:gap-10 2xl:gap-2 max-[480px]:min-h-[100vh] max-[480px]:mb-20"
     >
-        <!-- ACSS Logo -->
+        <!-- CMG Logo -->
         <div
             class="pt-4 ss:pt-12 md:pt-0 flex justify-center items-center md:flex-1 3xl:max-w-screen-sm floating"
         >
             <img
                 src="/assets/hero-banner.webp"
-                alt="The seal of ACSS placed on top of a glass object."
+                alt="The seal of CMG placed on top of a glass object."
                 width="500"
                 height="500"
                 class="max-w-xs 2xl:max-w-sm 3xl:max-w-lg m-auto"
@@ -27,15 +27,16 @@
                 <h1
                     class="text-4xl font-bold leading-tight lg:text-5xl md:leading-snug tracking-wide"
                 >
-                    Home of the Visionaries.
+                    CMG Young Musican Console
                 </h1>
                 <p
                     class="font-thin text-slate-200 md:max-w-sm text-sm 3xl:text-base 3xl:max-w-xl"
                 >
-                    Within our visionary community, opportunities take shape,
-                    innovation thrives, and new horizons emerge. Join us in
-                    crafting a future where dreams find their canvas and
-                    possibilities know no bounds.
+                    Originally, chamber music referred to a type of classical music that was performed in a small space such as a house or a palace room.
+                    There were far fewer instruments then found in an orchestra and no conductor to guide the musicians.
+                    Today, the tradition of chamber music remains very similar to its origins in terms of the size of the venue and the number of instruments used.
+                    Typically, a chamber orchestra is composed of 40 or fewer musicians.
+                    Because of the limited number of instruments, each instrument plays an equally important role.
                 </p>
             </div>
             <div class="flex flex-col gap-4">

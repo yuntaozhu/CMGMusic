@@ -19,7 +19,7 @@
 <div class="flex flex-col">
     <!-- Photo Header Of Form -->
     <div
-        id="photo-header" 
+        id="photo-header"
         style="background-image: url({headerPhotoURL})"
     >
     </div>
@@ -54,7 +54,7 @@
                 all your provided information shall only be used for
                 communication and recognition purposes with regards to the said
                 event. Upon submission of this form, you are giving our
-                organization—ACSS, the permission to use your information for
+                organization—CMG, the permission to use your information for
                 the said purposes only.
             </p>
         </div>
@@ -66,7 +66,7 @@
         width: 100vw;
         height: 25vw;
         min-height: 25vh;
-        background-image: url("./sampleheader.png");
+        background-image: url("/assets/homebackground.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
